@@ -20,7 +20,7 @@ Run your cutomizable Omegle bot directly from your terminal!
 
 ##How do I use the bot?
 
-1. Open Terminal/Console
+1. Open your Terminal/Console
 
 2. Write “cd” and drag the local repository folder in the Terminal/Console window (or just write the path to the local repo)
 
