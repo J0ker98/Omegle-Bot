@@ -14,3 +14,6 @@ Run your cutomizable Omegle bot directly from your terminal!
 5. Press Enter
 
 
+This repository is for educational proupose only. You are downloading/viewing/running these files on your own risk, I'm not responsable on how you use them.
+
+
