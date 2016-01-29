@@ -1,4 +1,4 @@
-# Omegle-Bot
+# Omegle Bot
 Run your cutomizable Omegle bot directly from your terminal!
 
 ##How do I customize the bot?
@@ -31,7 +31,7 @@ Run your cutomizable Omegle bot directly from your terminal!
 5. Press Enter
 
 
-If you have troubles running the repository on Windows check out [this guide](http://stackoverflow.com/questions/15597067/how-to-run-php-from-windows-command-line)
+**If you have troubles running the repository on Windows check out [this guide](http://stackoverflow.com/questions/15597067/how-to-run-php-from-windows-command-line)**
 
 
 This repository is for educational proupose only. You are downloading/viewing/running these files on your own risk, I'm not responsable on how you use them.
