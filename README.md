@@ -1,7 +1,7 @@
 # Omegle Bot
 Run your cutomizable Omegle bot directly from your terminal!
 
-##How do I customize the bot?
+## How do I customize the bot?
 
 1. Open "runme.php" with a script editor like [Notepad++](https://notepad-plus-plus.org/) (Windows) or [Atom](https://atom.io/) (Machintosh).
 
@@ -18,7 +18,7 @@ Run your cutomizable Omegle bot directly from your terminal!
 **P.S.** When modifing the lines, you have to keep the **"** before and after the text you have written and DO NOT use the same character, instead you can use the single **'**
 
 
-##How do I use the bot?
+## How do I use the bot?
 
 1. Open your Terminal/Console
 
