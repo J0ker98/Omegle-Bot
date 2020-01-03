@@ -24,7 +24,7 @@ public $excessWait = 20; // How long to wait before reconnecting if Omegle think
 // Functions
 function conn() // Initial connection function.
 {
-$this->unique = eregi_replace('"',null,file_get_contents('http://omegle.com/start'));
+$this->unique = preg_replace('~"~',null,file_get_contents('http://omegle.com/start'));
 if (!$this->unique){$this->conn();} // First connection attempt didn't go through, keep trying.
 echo $this->name." has connected.\nUnique ID: $this->unique.\n";
 $this->tO=0; // Reset this for a new connection.
