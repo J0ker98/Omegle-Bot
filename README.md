@@ -15,7 +15,7 @@ Run your cutomizable Omegle bot directly from your terminal!
 
 5. Save the file and open "php.omegle.php"
 
-6. On line 17, modify the Bot name to the same name you've put in "runme.php" as you already did.
+6. On line 15, modify the Bot name to the same name you've put in "runme.php" as you already did.
 
 **P.S.** When modifing the lines, you have to keep the **"** before and after the text you have written and DO NOT use the same character, instead you can use the single **'**
 
